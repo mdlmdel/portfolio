@@ -1,0 +1,25 @@
+.main {
+  padding-top: 25px;
+}
+
+.bg-about-me {
+  background: #00356b;
+  color: #ffffff;
+}
+
+.bg-text-panel {
+  background: #e7f1f8;
+  padding: 5px;
+}
+
+.border-left-column {
+  padding-top: 10px;
+  border:1px solid #cacaca; 
+}
+
+.border-right-column {
+  padding-top: 10px;
+  border-top:1px solid #cacaca;
+  border-right:1px solid #cacaca;  
+  border-bottom:1px solid #cacaca; 
+}
