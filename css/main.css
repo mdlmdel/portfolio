@@ -7,6 +7,16 @@
   color: #ffffff;
 }
 
+.title-bar {
+  padding: 0.5rem;
+  background: #00356b;
+}
+
+.bg-about-me-small {
+  background: #ffffff;
+  color: #00356b;
+}
+
 .bg-text-panel {
   background: #e7f1f8;
   padding: 5px;
